@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b771a3d4-768f-e9e7-7538-ac5492084eb4
 resourcetype: Document
 title: 'ES.114_F18 Assignments: Writing a Paper For Me'
 uid: 5b75f33c-9e4f-5acc-318f-0c72a5b63808
