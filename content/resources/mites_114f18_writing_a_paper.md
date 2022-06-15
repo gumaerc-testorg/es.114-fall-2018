@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-114-non-violence-as-a-way-of-life-fall-2018/5b75f33c9e4f5acc318f0c72a5b63808_MITES_114F18_Writing_a_Paper.pdf
+file: /courses/es-114-non-violence-as-a-way-of-life-fall-2018/5b75f33c9e4f5acc318f0c72a5b63808_MITES_114F18_Writing_a_Paper.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

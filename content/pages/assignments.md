@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -43,4 +44,4 @@ Selected portions of the journals will be shared during Week 13 and are worth 20
 Related Resource
 ----------------
 
-["Writing a Paper for Me." (PDF)]({{< baseurl >}}/resources/mites_114f18_writing_a_paper)
+{{% resource_link 5b75f33c-9e4f-5acc-318f-0c72a5b63808 "\"Writing a Paper for Me.\" (PDF)" %}}

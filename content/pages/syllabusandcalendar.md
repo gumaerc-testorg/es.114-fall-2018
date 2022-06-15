@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -76,7 +77,7 @@ Daily Conflict and Resolution Journal
 
 {{< tableclose >}}
 
-For more information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the activities above, see the {{% resource_link b771a3d4-768f-e9e7-7538-ac5492084eb4 "Assignments" %}} section.
 
 Calendar
 --------

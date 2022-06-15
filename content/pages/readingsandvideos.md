@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course topics and their accompanying readings
+  and videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Videos
@@ -36,11 +38,11 @@ _Readings:_
 
 “[The Sermon on the Mount](https://www.biblegateway.com/passage/?search=Matthew+5%3A1-7%3A27&version=KJV).” Matthew 5:1–7:27 (King James Version). Bible Gateway.
 
-Tolstoy, Leo. Chapter 4 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Kingdom of God is Within You Or, Christianity Not as a Mystical Teaching but as a New Concept of Life_ (PDF)](https://theanarchistlibrary.org/library/leo-tolstoy-the-kingdom-of-god-is-within-you.pdf), pp. 56–60. 1893. The Anarchist Library.
+Tolstoy, Leo. Chapter 4 in [_The Kingdom of God is Within You Or, Christianity Not as a Mystical Teaching but as a New Concept of Life_ (PDF)](https://theanarchistlibrary.org/library/leo-tolstoy-the-kingdom-of-god-is-within-you.pdf), pp. 56–60. 1893. The Anarchist Library.
 
-King, Martin Luther, Jr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Draft of Chapter IV, 'Love in Action.'” (PDF)](http://okra.stanford.edu/transcription/document_images/Vol06Scans/July1962-March1963DraftofChapterIV,LoveinAction.pdf) The Martin Luther King, Jr. Papers Project, Stanford University.
+King, Martin Luther, Jr. [“Draft of Chapter IV, 'Love in Action.'” (PDF)](http://okra.stanford.edu/transcription/document_images/Vol06Scans/July1962-March1963DraftofChapterIV,LoveinAction.pdf) The Martin Luther King, Jr. Papers Project, Stanford University.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Loving Your Enemies.” (PDF)](https://swap.stanford.edu/20141218225514/http://mlk-kpp01.stanford.edu/primarydocuments/Vol4/17-Nov-1957_LovingYourEnemies.pdf) November 17, 1957. The Martin Luther King, Jr. Papers Project, Stanford University.
+———. [“Loving Your Enemies.” (PDF)](https://swap.stanford.edu/20141218225514/http://mlk-kpp01.stanford.edu/primarydocuments/Vol4/17-Nov-1957_LovingYourEnemies.pdf) November 17, 1957. The Martin Luther King, Jr. Papers Project, Stanford University.
 
 ———. “The Power of Nonviolence.” Chapter 3 in _A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr_. Edited by James M. Washington. HarperOne, 2003. ISBN: 9780060646912. \[Preview with [Google Books](https://books.google.com/books?id=qnoc3JhV5iUC&pg=PA12=onepage#v=onepage&q&f=false)\]
 
@@ -116,7 +118,7 @@ Naess, Arne. “[A Systematization of Gandhian Ethics of Conflict Resolution](ht
 
 Godrej, Farah. “[Nonviolence and Gandhi's Truth: A Method for Moral and Political Arbitration](https://www.jstor.org/stable/20452781?seq=1#page_scan_tab_contents).” _Review of Politics_ 68, no. 2 (2006): 287–317.
 
-Wholistic Stress Control Institute, Inc. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Ten Strategies for Conflict Resolution.” (PDF)](http://abshs.org/wp-content/uploads/2017/05/Strategies-for-Conflict-Resolution.pdf)
+Wholistic Stress Control Institute, Inc. [“Ten Strategies for Conflict Resolution.” (PDF)](http://abshs.org/wp-content/uploads/2017/05/Strategies-for-Conflict-Resolution.pdf)
 
 Scott, Elizabeth. “[Effects of Conflict and Stress on Relationships](https://www.verywellmind.com/the-toll-of-conflict-in-relationships-3144952).” March 21, 2019. Verywell.
 
@@ -168,7 +170,7 @@ Kindness and Cruelty
 
 _Readings:_
 
-Jaksch, Mary. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Skill of Goodness.” (PDF)](https://goodlifezen.com/wp-content/uploads/2007/11/the-skill-of-goodness.pdf)
+Jaksch, Mary. [“The Skill of Goodness.” (PDF)](https://goodlifezen.com/wp-content/uploads/2007/11/the-skill-of-goodness.pdf)
 
 Schreiner, Michael. “[Choosing Kindness](https://evolutioncounseling.com/choosing-kindness/).” June 16, 2014. Evolution Counseling.
 
@@ -188,7 +190,7 @@ Regan, Tom. “[Cruelty, Kindness, and Unnecessary Suffering](https://www.jstor.
 
 Putman, Daniel. “[The Compatibility of Justice and Kindness](https://philpapers.org/rec/DANTCO).” _Philosophy_ 65, no. 254 (1990): 516–17.
 
-Padgett, Corey. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“On Nietzsche's Genealogy of Cruelty.” (PDF)](https://macsphere.mcmaster.ca/bitstream/11375/11303/1/fulltext.pdf) M.A. Thesis. McMaster University. 2011.
+Padgett, Corey. [“On Nietzsche's Genealogy of Cruelty.” (PDF)](https://macsphere.mcmaster.ca/bitstream/11375/11303/1/fulltext.pdf) M.A. Thesis. McMaster University. 2011.
 
 _Video:_
 
@@ -296,7 +298,7 @@ Marks, Joel. “[Emotion East and West: Introduction to a Comparative Philosophy
 
 Wallace, R. Jay. “[An Anti-Philosophy of the Emotions?](https://www.jstor.org/stable/2653498?seq=1#page_scan_tab_contents)” _Philosophy and Phenomenological Research_ 60, no. 2 (2000): 469–77.
 
-Seneca, Lucius Annaeus. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“On Anger: Book 1.” (PDF)](http://www.sophia-project.org/uploads/1/3/9/5/13955288/seneca_anger.pdf) Sophia Project Philosophy Archives.
+Seneca, Lucius Annaeus. [“On Anger: Book 1.” (PDF)](http://www.sophia-project.org/uploads/1/3/9/5/13955288/seneca_anger.pdf) Sophia Project Philosophy Archives.
 
 Popova, Maria. “[Ursula K. Le Guin on Anger](https://www.brainpickings.org/2017/12/05/ursula-k-le-guin-no-time-to-spare-anger/?utm_source=Brain+Pickings&utm_campaign=1178c8f6d3-EMAIL_CAMPAIGN_2017_12_08&utm_medium=email&utm_term=0_179ffa2629-1178c8f6d3-238837405&mc_cid=1178c8f6d3&mc_eid=cab7d14bb1).” Brain Pickings.
 
@@ -352,9 +354,9 @@ _Readings:_
 
 Gibson, James L.  “Does Truth Lead to Reconciliation?” Chapter 1 in _Overcoming Apartheid: Can Truth Reconcile a Divided Nation?_ Russell Sage Foundation, 2006. ISBN: 9780871543134. \[Preview with [Google Books](https://books.google.com/books?id=r_UWAwAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-Kant, Immanuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“On a Supposed Right to Lie Because of Philanthropic Concerns.” (PDF)](http://bgillette.com/wp-content/uploads/2011/08/KANTsupposedRightToLie.pdf)
+Kant, Immanuel. [“On a Supposed Right to Lie Because of Philanthropic Concerns.” (PDF)](http://bgillette.com/wp-content/uploads/2011/08/KANTsupposedRightToLie.pdf)
 
-MacIntyre, Alasdair. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Truthfulness, Lies, and Moral Philosophers: What Can We Learn from Mill and Kant?” (PDF)](https://tannerlectures.utah.edu/_documents/a-to-z/m/macintyre_1994.pdf) The Tanner Lectures on Human Values, delivered at Princeton University. April 6 and 7, 1994.
+MacIntyre, Alasdair. [“Truthfulness, Lies, and Moral Philosophers: What Can We Learn from Mill and Kant?” (PDF)](https://tannerlectures.utah.edu/_documents/a-to-z/m/macintyre_1994.pdf) The Tanner Lectures on Human Values, delivered at Princeton University. April 6 and 7, 1994.
 
 Korsgaard, Christine M. “[The Right to Lie: Kant on Dealing with Evil](https://dash.harvard.edu/bitstream/handle/1/3200670/korsgaard_righttolie.pdf?sequence=2).”  _Philosophy and Public Affairs_ 15, no. 4 (1986): 325–49.
 
@@ -384,7 +386,7 @@ Hanson, Robin. “[Meta Honesty](http://www.overcomingbias.com/2007/10/meta-hone
 
 Bilgrami, Akeel. “[Gandhi, the Philosopher](https://www.jstor.org/stable/4414080?seq=1#page_scan_tab_contents).” _Economic and Political Weekly_ 38, no. 39 (2003): 4159–65.
 
-Frankfurt, Harry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“On Bullshit.” (PDF)](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf) 1986.
+Frankfurt, Harry. [“On Bullshit.” (PDF)](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf) 1986.
 
 Healy, Ben. “[Gossiping is Good](https://www.theatlantic.com/magazine/archive/2018/07/gossip-is-good/561737/).” _The Atlantic_, July / August 2018.
 
@@ -422,11 +424,11 @@ Darrow, Clarence S. “[Theory of Crime and Punishment](https://archive.org/deta
 
 ———. “[The Right Treatment of Violence](https://archive.org/details/resistnotevil00darr/page/164).” Chapter 16 in _Resist Not Evil_. 1903. Archive.org.
 
-Barton, Charles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Theories of Restorative Justice.” (PDF)](http://www.voma.org/docs/barton_trj.pdf) _Australian Journal of Professional and Applied Ethics_ 2, no. 1 (2000): 41–53.
+Barton, Charles. [“Theories of Restorative Justice.” (PDF)](http://www.voma.org/docs/barton_trj.pdf) _Australian Journal of Professional and Applied Ethics_ 2, no. 1 (2000): 41–53.
 
-Materni, Mike C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Criminal Punishment and the Pursuit of Justice.” (PDF)](https://hls.harvard.edu/content/uploads/2011/09/michele-materni-criminal-punishment.pdf) _British Journal of American Legal Studies_ 2, no. 1 (2013): 263–304.
+Materni, Mike C. [“Criminal Punishment and the Pursuit of Justice.” (PDF)](https://hls.harvard.edu/content/uploads/2011/09/michele-materni-criminal-punishment.pdf) _British Journal of American Legal Studies_ 2, no. 1 (2013): 263–304.
 
-Gabbay, Zvi D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [“Justifying Restorative Justice: A Theoretical Justification for the Use of Restorative Justice Practices.” (PDF - 3.4MB)](https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=1495&context=jdr) _Journal of Dispute Resolution_ 2005, no. 2 (2005): 349–97.
+Gabbay, Zvi D.  [“Justifying Restorative Justice: A Theoretical Justification for the Use of Restorative Justice Practices.” (PDF - 3.4MB)](https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=1495&context=jdr) _Journal of Dispute Resolution_ 2005, no. 2 (2005): 349–97.
 
 Villa-Vicencio, Charles. “[The Reek of Cruelty and the Quest for Healing: Where Retributive and Restorative Justice Meet](https://www.jstor.org/stable/1051783?seq=1#page_scan_tab_contents).” _Journal of Law and Religion_ 14, no. 1 (1999–2000): 165–87.
 
@@ -458,7 +460,7 @@ Darrow, Clarence S. “Theory of Crime and Punishment.” Chapter 5 in _Resist N
 
 Adams, William Lee. “[Norway Builds the World's Most Humane Prison](http://content.time.com/time/magazine/article/0,9171,1986002,00.html).” _Time_, May 10, 2010.
 
-Zehr, Howard, with Ali Gohar. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Little Book of Restorative Justice_. (PDF)](https://www.unicef.org/tdad/littlebookrjpakaf.pdf) Good Books, 2003.
+Zehr, Howard, with Ali Gohar. [_The Little Book of Restorative Justice_. (PDF)](https://www.unicef.org/tdad/littlebookrjpakaf.pdf) Good Books, 2003.
 
 
 {{< tdclose >}}
