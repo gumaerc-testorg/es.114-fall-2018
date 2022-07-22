@@ -5,6 +5,7 @@ file: /courses/es-114-non-violence-as-a-way-of-life-fall-2018/5b75f33c9e4f5acc31
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
